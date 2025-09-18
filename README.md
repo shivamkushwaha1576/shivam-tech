@@ -1,3 +1,4 @@
 # shivam-tech
+This is my first  Git Repository
 <br>
-This is my first  Git Repository Author - shivam kushwaha
+Author - shivam kushwaha
